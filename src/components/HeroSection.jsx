@@ -20,7 +20,7 @@ const HeroSection = () => {
       <button className="flex justify-center my-10">
         <a
           href="https://api.whatsapp.com/send?phone=5516988233003&text=Ol%C3%A1,%20vim%20pelo%20site%20da%20Te%C3%B3filo%20Solu%C3%A7%C3%B5es%20Financeiras%20BPO!%20E%20tenho%20interesse%20nos%20seus%20servi%C3%A7os,%20poderia%20me%20ajudar?%20"
-          className="py-4 px-5 mx-3 rounded-md border bg-blue-600 text-white hover:text-yellow-300 font-bold"
+          className="py-4 px-5 mx-3 rounded-md bg-blue-600 text-white hover:text-yellow-300 font-bold"
           target="_blank"
         >
           Impulsione seu negócio agora mesmo

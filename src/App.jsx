@@ -3,8 +3,7 @@ import HeroSection from "./components/HeroSection";
 import FeatureSection from "./components/FeatureSection";
 import Workflow from "./components/Workflow";
 import Footer from "./components/Footer";
-import Pricing from "./components/Pricing";
-import Testimonials from "./components/Testimonials";
+import FaqSection from "./components/FaqSection";
 
 const App = () => {
   return (
@@ -14,8 +13,7 @@ const App = () => {
         <HeroSection />
         <Workflow />
         <FeatureSection />
-        <Pricing />
-        <Testimonials />
+        <FaqSection />
         <Footer />
       </div>
     </>

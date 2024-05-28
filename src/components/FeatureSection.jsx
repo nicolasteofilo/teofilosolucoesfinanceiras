@@ -2,11 +2,13 @@ import { features } from "../constants";
 
 const FeatureSection = () => {
   return (
-    <div className="relative mt-20 border-b border-neutral-800 min-h-[800px]">
+    <div className="relative mt-20 min-h-[400px]">
       <div className="text-center">
-        <h2 className="text-3xl sm:text-5xl lg:text-3xl mt-10 lg:mt-20 font-bold tracking-wide">
-          Nossos Serviços
-        </h2>
+        <a href="#servicos">
+          <h2 className="text-3xl sm:text-5xl lg:text-3xl mt-10 lg:mt-20 font-bold tracking-wide">
+            Nossos Serviços
+          </h2>
+        </a>
       </div>
       <div className="flex flex-wrap mt-10 lg:mt-20">
         {features.map((feature, index) => (
@@ -17,7 +19,7 @@ const FeatureSection = () => {
               </div>
               <div>
                 <h5 className="mt-1 mb-1 text-xl">{feature.text}</h5>
-                <p className="text-md p-2 mb-20 text-neutral-500">
+                <p className="text-md p-2 text-neutral-500">
                   {feature.description}
                 </p>
               </div>
