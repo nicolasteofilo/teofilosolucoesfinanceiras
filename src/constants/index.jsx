@@ -71,14 +71,17 @@ export const checklistItems = [
   {
     title: "Relatórios Precisos e Eficientes",
   },
+  {
+    title: "Parceria Estratégica",
+  },
+  {
+    title: "Potencial de Economia para sua Empresa",
+  },
 ];
 
 export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "https://api.whatsapp.com/send?phone=5516996399019&text=Ol%C3%A1,%20vim%20pelo%20site%20da%20Te%C3%B3filo%20Solu%C3%A7%C3%B5es%20Financeiras%20BPO!%20E%20tenho%20interesse%20nos%20seus%20servi%C3%A7os,%20poderia%20me%20ajudar?%20", text: "Whatsapp" },
+  { href: "https://www.instagram.com/teofilosolucoesfinanceiras/", text: "Instagram" },
 ];
 
 export const platformLinks = [

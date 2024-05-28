@@ -7,9 +7,9 @@ const Workflow = () => {
   return (
     <div className="mt-15">
       <a href="#sobre-nos">
-        <h2 className="text-lg font-semibold ml-2 text-left mt-1 tracking-wide" >
-          Melhore agora o sucesso da sua empresa!
-        </h2>
+      <h2 className="text-lg font-semibold ml-2 text-left mt-20 tracking-wide" >
+        Melhore agora o sucesso da sua empresa!
+      </h2>
       </a>
       <div className="flex flex-wrap justify-center">
         <div className="p-2 w-full lg:w-1/2">

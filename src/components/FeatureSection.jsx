@@ -5,7 +5,7 @@ const FeatureSection = () => {
     <div className="relative mt-20 min-h-[400px]">
       <div className="text-center">
         <a href="#servicos">
-          <h2 className="text-3xl sm:text-5xl lg:text-3xl mt-10 lg:mt-20 font-bold tracking-wide">
+          <h2 className="text-3xl sm:text-5xl lg:text-3xl mt-20 lg:mt-20 font-bold tracking-wide">
             Nossos Serviços
           </h2>
         </a>
